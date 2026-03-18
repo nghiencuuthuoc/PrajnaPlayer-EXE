@@ -1,0 +1,4 @@
+Pillow>=10.0
+mutagen>=1.47
+python-vlc>=3.0.20123
+pyinstaller>=6.0
